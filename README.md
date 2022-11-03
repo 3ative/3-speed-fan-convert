@@ -116,6 +116,7 @@ Below is the 'custom Sensor' needed to get a thermostats attribute in to ESPHome
       value_template: "{{ state_attr('climate.bedroom_cooling', 'temperature') }}"
 ```
 
+___
 #### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
 | Buy me a Coffee | PATREON |
 |-----------------|---------|
