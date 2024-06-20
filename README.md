@@ -20,6 +20,7 @@ substitutions:
 logger:
 api:
 ota:
+  platform: esphom
 
 binary_sensor:
   - platform: homeassistant
